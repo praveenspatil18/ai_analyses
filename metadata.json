@@ -1,0 +1,6 @@
+{
+  "name": "CareerAI - AI Career Intelligence Platform",
+  "description": "AI career intelligence and personalized learning platform with skill assessments, dynamic roadmaps, role fit scoring, resume analysis, and mock interviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
